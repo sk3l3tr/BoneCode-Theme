@@ -1,11 +1,15 @@
 {
   "name": "bonecode-themes",
-  "displayName": "BoneCode",
+  "displayName": "BoneCode Themes",
   "description": "BoneCode Dark and Light: bone yellow, purple and blue, inspired by BoneVim.",
   "version": "1.0.1",
   "publisher": "SK3L3T0R",
   "author": "SK3L3T0R",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sk3l3tr/BoneCode-Theme.git"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
