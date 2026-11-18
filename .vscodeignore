@@ -1,0 +1,7 @@
+tests/**
+*.vsix
+PRODUCT.md
+DESIGN.md
+.impeccable/**
+.vscode/**
+samples/**

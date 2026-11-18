@@ -1,0 +1,37 @@
+{
+  "name": "bonecode-themes",
+  "displayName": "BoneCode",
+  "description": "BoneCode Dark and Light: bone yellow, purple and blue, inspired by BoneVim.",
+  "version": "1.0.1",
+  "publisher": "SK3L3T0R",
+  "author": "SK3L3T0R",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "bonecode",
+    "bonevim",
+    "purple",
+    "dark",
+    "light"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BoneCode Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bonecode-dark-color-theme.json"
+      },
+      {
+        "label": "BoneCode Light",
+        "uiTheme": "vs",
+        "path": "./themes/bonecode-light-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
